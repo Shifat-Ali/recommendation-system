@@ -37,4 +37,4 @@ The best [RMSE](https://en.wikipedia.org/wiki/Root-mean-square_deviation) and [M
 
 ## Example
 
-![alt text](pictures/prediction.PNG)
+![alt text](prediction.PNG)
